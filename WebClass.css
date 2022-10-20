@@ -1,0 +1,72 @@
+h1 {
+    padding: 5px;
+    color: royalblue;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.navbar1 {
+    font-style: none;
+    text-align: center;
+    padding: 1%;
+    letter-spacing: 1.3px;
+    word-spacing: 35px;
+}
+
+a {
+    color: grey;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+.image {
+    flex: auto;
+    align-items: center;
+    justify-content: center;
+}
+
+.maindiv {
+    padding: 1rem;
+    max-width: 1000px;
+    margin: auto;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.div1 {
+
+    padding: 10px;
+    max-width: 300px;
+    min-width: 200px;
+    display: flex;
+    color: darkcyan;
+}
+
+.div2 {
+    padding: 10px;
+    max-width: 300px;
+    min-width: 200px;
+    display: flex;
+    color: darkcyan;
+}
+
+.div3 {
+    padding: 10px;
+    min-width: 200px;
+    max-width: 300px;
+    display: flex;
+    color: darkcyan;
+}
+
+button {
+    margin: auto;
+    display: block;
+    border-radius: 20%;
+
+}
+
+button:hover {
+    background-color: black;
+    color: white;
+}

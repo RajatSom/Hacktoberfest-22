@@ -1,0 +1,60 @@
+html {
+    font-size: large;
+}
+
+#divv {
+    color: white;
+    width: 200px;
+    border: 7px dotted black;
+    border-left-width: 5px;
+    border-left-style: double;
+    background-image: url("https://media.istockphoto.com/photos/neon-background-abstract-blue-and-pink-with-light-shapes-line-picture-id1191658515?b=1&k=20&m=1191658515&s=170667a&w=0&h=cS0xPQx1SaV6awUuT62L1MFTNB68Bz7WtAiXkEpfUN4=");
+    background-size: contain;
+}
+
+/* background has shorthand property too */
+
+h1 {
+    margin-left: 10px;
+    width: 157px;
+    padding: 10px 15px;
+    background-color: pink;
+    text-decoration: underline;
+    color: firebrick;
+    opacity: 0.5
+}
+
+#pp {
+    width: 200px;
+    border-top-left-radius: 10px;
+    border-bottom-right-radius: 20px;
+    border: 8px solid rgba(100, 100, 100, 0.5);
+    box-shadow: 0em 0.5em 0.5em 0em;
+}
+
+body {
+    font-size: 15px;
+    margin: 20px;
+}
+
+#pp {
+    font-size: 1rem;
+    margin-left: 1.1rem;
+}
+
+#here {
+    width: px;
+    height: 20px;
+    background-color: red;
+    position: fixed;
+    top: 0;
+    left: 0;
+}
+
+/* IMPORTANT: Transition; */
+/* Transform:- resize,rotate,
+translate (push left or right),skew */
+
+/* display:inline-block */
+/* em drawback:- nested elements */
+/* position- sticky */

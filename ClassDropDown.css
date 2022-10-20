@@ -1,0 +1,10 @@
+.link {
+    height: 0;
+    overflow-y: hidden;
+    transition: all 3s ease;
+    display: inline-block;
+}
+
+.dropdown:hover .link {
+    height: 100px;
+}

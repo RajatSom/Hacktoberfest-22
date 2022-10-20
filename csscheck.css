@@ -1,0 +1,41 @@
+h3 {
+    color: rgb(46, 147, 147);
+    text-decoration: #212122 underline wavy;
+}
+
+h4 {
+    text-align: center;
+    width: 38%;
+    font-size: 14px
+}
+
+footer>a {
+    font-size: 20px;
+}
+
+input {
+    color: brown;
+}
+
+a[href*="first"] {
+    color: darkgoldenrod;
+}
+
+a:hover {
+    color: aquamarine;
+    /* background-color: greenyellow; */
+}
+
+a:active {
+    color: black;
+}
+
+/* .id :nth-of-type(2n)
+{
+    color: red;
+} */
+
+/* font-weight,letter-spacing,text decoration : none, line height */
+/* font family */
+/* #id,.class */
+/* h4 + a, every a after h4 */

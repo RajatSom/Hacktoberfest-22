@@ -1,0 +1,26 @@
+body {
+    background-color: lightblue;
+}
+
+#mainNavbar .navbar-brand {
+    color: red;
+    margin: 0 5px;
+}
+
+#mainNavbar .nav-link {
+    color: white;
+}
+
+#mainNavbar .nav-link:hover {
+    color: orange;
+}
+
+#mainNavbar {
+    font-size: 1.5rem;
+    font-weight: 100;
+}
+
+#headingGroup h2 {
+    font-weight: 100;
+    font-size: 1.5rem;
+}

@@ -1,0 +1,50 @@
+html {
+    background-color: red;
+}
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.blue {
+    background-color: blue;
+    height: 50vh;
+    width: 33.33vw;
+}
+
+a {
+    display: flex;
+    justify-content: center;
+    color: black;
+    text-decoration: none;
+}
+
+.orange {
+    background-color: orange;
+    height: 50vh;
+    width: 33.33vw;
+}
+
+.badadiv {
+    position: absolute;
+    right: 0;
+    top: 0;
+}
+
+.pink {
+    height: 33.33vh;
+    width: 33.33vw;
+    background-color: pink;
+}
+
+.green {
+    height: 33.33vh;
+    width: 33.33vw;
+    background-color: yellow;
+}
+
+.violet {
+    height: 33.33vh;
+    width: 33.33vw;
+    background-color: gray;
+}

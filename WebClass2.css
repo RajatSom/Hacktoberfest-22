@@ -1,0 +1,53 @@
+h1 {
+    display: flex;
+    justify-content: center;
+}
+
+#list {
+    width: 100%;
+}
+
+#form {
+    display: flex;
+    justify-content: center;
+}
+
+span {
+    display: flex;
+    justify-content: center;
+    letter-spacing: 0.2rem;
+}
+
+li {
+    font-size: 170%;
+    margin-bottom: 1rem;
+    margin-left: 4rem;
+    margin-right: 10rem;
+    font-family: monospace;
+    color: #e01b09;
+    padding-bottom: 5px;
+
+    border-bottom: 2px solid lightgray;
+    display: flex;
+    justify-content: space-between;
+}
+
+button {
+    display: inline;
+    color: #e01b09;
+}
+
+.dis {
+    border-radius: 10px;
+}
+
+.dis:hover {
+    size: 150%;
+    color: black;
+}
+
+#btn {
+    margin: 0;
+    display: inline;
+    color: black;
+}

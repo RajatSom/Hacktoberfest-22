@@ -1,0 +1,17 @@
+input {
+    color: red;
+}
+
+input[type="password"] {
+    color: green;
+}
+
+div::first-letter {
+    color: hotpink;
+}
+
+p::selection {
+    color: lightgreen;
+}
+
+/* color: inherit */
